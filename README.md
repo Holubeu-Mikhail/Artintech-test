@@ -7,3 +7,5 @@
 5. Сделать класс Inventory потокобезопастным
 
 ## Применение юнит тестов будет плюсом.
+
+<img width="1223" height="140" alt="image" src="https://github.com/user-attachments/assets/7ad555b1-e6e4-4290-8ec4-eb9e4f447b92" />
